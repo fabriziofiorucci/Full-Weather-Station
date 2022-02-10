@@ -18,6 +18,7 @@ Used sensors and parts are:
 - Wind speed decoding: ADS1115 16-Bit ADC - 4 Channel with Programmable Gain Amplifier
 - LM7805 linear voltage regulator
 - 1x 1.8kohm resistor
+- 1x 1kohm resistor
 - 2, 3, 4 & 5 pins JST XH connectors
 - 3 poles PCB screw terminal blocks
 - 12-15V 2A power supply
