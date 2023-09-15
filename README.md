@@ -10,6 +10,7 @@ Used sensors and parts are:
 - Wemos D1 minicontroller
 - Wind speed: Anemometer with analog voltage output (like https://www.adafruit.com/product/1733)
 - Visible light: BH1750FVI Light intensity (lux) sensor
+- UV light: VEML6070 uv sensor
 - Air quality/pollution: Digital Particle Concentration Laser Sensor PMS5003
 - Rain quantity: Tipping bucket rain gauge (like https://www.bc-robotics.com/shop/tipping-rain-gauge/)
 - Rain level: Capacitive soil moisture sensor
